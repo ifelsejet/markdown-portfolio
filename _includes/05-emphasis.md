@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I program in *Java* and I have made a **Discord** bot using *NodeJS* and **VS Code**
